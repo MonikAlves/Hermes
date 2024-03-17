@@ -1,5 +1,5 @@
 <h1 align="center"> Hermes </h1>
-<p align="center"> **Versão em c** <p>
+<h5 align="center">Versão em c</h5>
 
 <p align="center">
 Projeto da materia Algoritimo e Estruturas de Dados, com o objetivo de criar um programa de Gerenciador de Pedidos e Entrega em Ambiente Comercial <br/>
