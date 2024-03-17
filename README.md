@@ -4,7 +4,7 @@
 Projeto da materia Algoritimo e Estruturas de Dados, com o objetivo de criar um programa de Gerenciador de Pedidos e Entrega em Ambiente Comercial <br/>
 <br>
 <p align="center">
-  <img alt="asas" src=".github/preview.png" width="60%">
+  <img alt="asas" src=".github/preview.png" width="30%">
 </p>
 
 ## 🚀 Tecnologias
