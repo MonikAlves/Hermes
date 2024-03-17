@@ -27,6 +27,6 @@ Organizador de entregas, podemos separar pelos status do pedido
 ## 🔖 Layout
 *Versão upada ainda é sem css, então esse design esta um pouco diferente mas foi baseado*
 
-Você pode visualizar o layout do projeto através [DESSE LINK]([https://www.figma.com/community/file/1187422022288947321](https://www.figma.com/file/aKmv1jHlhPTSTnJsw1zh8Q/Hermes?type=design&node-id=0-1&mode=design&t=fitmjSPKZK0uVSzz-0)). É necessário ter conta no [Figma](https://figma.com) para acessá-lo.
+Você pode visualizar o layout do projeto através [DESSE LINK]([https://www.figma.com/community/file/1187422022288947321](https://www.figma.com/file/aKmv1jHlhPTSTnJsw1zh8Q/Hermes?type=design&node-id=0-1&mode=design&t=fitmjSPKZK0uVSzz-0). É necessário ter conta no [Figma](https://figma.com) para acessá-lo.
 
 Feito por [Monik](https://github.com/MonikAlves "Monik") e [Matheus](https://github.com/gauloish "Matheus")
