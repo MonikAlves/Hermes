@@ -1,0 +1,6 @@
+{
+    "files.associations": {
+        "produto.h": "c",
+        "string.h": "c"
+    }
+}
