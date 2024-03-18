@@ -20,9 +20,18 @@ Também usamos:
 
 Organizador de entregas, podemos separar pelos status do pedido
 - Entregue
--  Preparado
+- Preparado
 - Pago
 - Pendente
+
+Tem todas as informações necessárias dos clientes
+- Nome
+- Contato
+- Endereço
+- Status do pedido 
+- Valor do pedido
+- Forma de pagamento
+- Produtos que pediu
 
 ## 🔖 Layout
 *Versão upada ainda é sem css, então esse design esta um pouco diferente mas foi baseado*
